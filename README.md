@@ -22,19 +22,19 @@ This project implements a passwordless authentication system using biometric aut
 **React Frontend:** A user-friendly interface built with React.\
 **Express Backend:** An API server built with Node.js and Express.\
 **OTP Verification:** One-time password verification during user registration.\
-**Biometric Registration and Authentication:** Supports platform authenticators like Windows Hello and Touch ID.\
+**Biometric Registration and Authentication:** Supports platform authenticators like Windows Hello and Touch ID.
 
 ### Prerequisites
 **Node.js:** Version 14.17.0 or higher is recommended.\
 **npm:** Comes with Node.js installation.\
 **Modern Browser:** Latest version of Chrome, Firefox, Edge, or Safari.\
 **Platform Authenticator:** A device with biometric capabilities (e.g., fingerprint scanner, facial recognition).\
-**Git:** For cloning the repository.\
+**Git:** For cloning the repository.
 
 ### Installation
 Clone the Repository
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/sbhand22/passwordless-login-functionality.git
 cd your-repo-name
 ```
 Install Dependencies
@@ -54,7 +54,7 @@ Navigate to the Backend Directory
 ```bash
 node server.js
 ```
-The backend server will run on http://localhost:5000.\
+The backend server will run on http://localhost:5000.
 You should see Server is running on port 5000 in your console.
 
 - Start the Frontend Application
@@ -62,13 +62,13 @@ Navigate to the Frontend Directory
 ```bash
 npm start
 ```
-The frontend will run on http://localhost:3000.\
+The frontend will run on http://localhost:3000.
 A new browser window should open automatically.
 
 ### Usage
 - Registration Process
  1. Access the Application
-2. Open your browser and navigate to http://localhost:3000.\
+2. Open your browser and navigate to http://localhost:3000.
 3. Enter Email
 
 4. On the home page, enter your email address and click Next.
@@ -116,7 +116,7 @@ your-repo-name/
 ```
 backend/: Contains the Node.js Express server.\
 frontend/: Contains the React application.\
-README.md: Project documentation.\
+README.md: Project documentation.
 
 ### Troubleshooting
 
